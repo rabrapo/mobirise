@@ -52,6 +52,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -480,4 +486,21 @@ h6,
 }
 #header1-1 .mbr-section-title {
   color: #41a85f;
+}
+#pricing-table2-0 .mbr-plan-header,
+#pricing-table2-0 .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-0 ul,
+#pricing-table2-0 .mbr-plan-title,
+#pricing-table2-0 .mbr-price-value,
+#pricing-table2-0 .mbr-price-figure,
+#pricing-table2-0 .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-0 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-0 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
 }
